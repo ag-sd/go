@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-var testFile string = "resource/test_image.jpg"
+var testFile = "resource/test_image.jpg"
 var aHash uint64 = 9169063992688115967
 var dHash uint64 = 17505769358845671865
 var pHash uint64 = 10053688355855114876
